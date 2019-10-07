@@ -19,7 +19,6 @@ body {
 
 /* Write all remaining styles here */
 
-.titles {
+h1 {
   color : blue;
-  background-color: blue;
 }
