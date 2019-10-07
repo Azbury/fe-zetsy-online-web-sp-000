@@ -39,6 +39,6 @@ h2 {
 footer {
   padding : 10px;
   position: fixed;
-  left: 0;
+  right: 0;
   bottom: 0;
 }
